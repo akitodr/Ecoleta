@@ -19,9 +19,9 @@
 
 <p>Nesse modelo, foi desenvolvido toda a parte de busca de ponto de coleta. A busca é feita a partir da cidade e estado informados pelo usuário.</p>
 
-<p align="center>
+<div align="center>
   <img src="https://github.com/akitodr/Ecoleta/blob/master/Início.png">
-</p>
+</div>
 
 <p>A tela de resultado de busca exibe um mapa com todos os pontos filtrados. Quando um ponto é selecionado, a tela de detalhes é exibida. É possível também, filtrar os pontos de coleta do mapa pelo tipo de material que deseja descartar, clicando nos ítens na lista abaixo.</p>
 
